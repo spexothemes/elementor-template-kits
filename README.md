@@ -156,6 +156,7 @@ These templates are built for specific industries and niche use cases. Each layo
 - [Browse All Elementor Templates](https://spexoaddons.com/spexo-elementor-theme/)
 - [Best WooCommerce Elementor Templates Guide](https://spexoaddons.com/blog/best-woocommerce-elementor-templates-online-stores/)
 - [Portfolio Website Creation Guide](https://spexoaddons.com/blog/create-portfolio-website-elementor/)
+- [Best Elementor Addons](https://spexoaddons.com/blog/best-elementor-addons/)
 
 ---
 
