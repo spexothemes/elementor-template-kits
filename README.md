@@ -1,6 +1,6 @@
 # Elementor Template Kits for WordPress - Spexo Template Library [Free and Paid]
 
-Spexo provides a wide collection of [Elementor template kits](https://spexoaddons.com/spexo-elementor-theme/) for real website projects. These templates help you build pages faster without starting from scratch. Each layout focuses on clean structure, performance, and easy customization. You can use them for business websites, online stores, blogs, portfolios, landing pages, and service websites.
+Spexo provides a wide collection of [Elementor template kits](https://spexoaddons.com/templates/) for real website projects. These templates help you build pages faster without starting from scratch. Each layout focuses on clean structure, performance, and easy customization. You can use them for business websites, online stores, blogs, portfolios, landing pages, and service websites.
 
 ## What You Get
 
@@ -181,10 +181,12 @@ This template library is useful for different kinds of users. It works well for 
 ## Useful Links
 
 - [Visit Spexo Official Website](https://spexoaddons.com)
-- [Browse All Elementor Templates](https://spexoaddons.com/spexo-elementor-theme/)
+- [Browse Free Elementor Templates](https://spexoaddons.com/templates/)
+- [Free Elementor Theme](https://spexoaddons.com/spexo-elementor-theme/)
 - [Read WooCommerce Elementor Templates Guide](https://spexoaddons.com/blog/best-woocommerce-elementor-templates-online-stores/)
 - [Learn How to Create a Portfolio Website](https://spexoaddons.com/blog/create-portfolio-website-elementor/)
 - [Explore Best Elementor Addons](https://spexoaddons.com/blog/best-elementor-addons/)
+- [Download Spexo Theme from WordPress.org](https://wordpress.org/themes/spexo/)
 
 ---
 
